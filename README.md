@@ -1,6 +1,9 @@
 # FreeCrossFireWall
 所有节点由[音速科技](https://niubi.ilaosiji.xyz/)提供，免费食用
 
+
+ **关键词** 免费VPN、免费翻墙节点，高速翻墙
+
 全部节点三级跳板，隐藏真实ip
 
 |从哪登录|用啥号码|密码是啥|如何使用
