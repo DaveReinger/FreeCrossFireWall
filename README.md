@@ -10,6 +10,7 @@
 |从哪登录|用啥号码|密码是啥|如何使用
 |--|--|--|--|
 |[音速科技](https://niubi.ilaosiji.xyz/)| share@qq.com | 123456 | 本账户每1小时重置为默认状态，修改密码无效;每月提供 512GB 分享流量; |
+| [魔法云](https://magicweb.xyz) | share@magicweb.xyz | magicweb_nb_666 | [魔法云](https://magicweb.xyz)本账户每1小时重置为默认状态，修改密码无效;每月提供 **100GB** 分享流量 |
 
 ### 流量不够用，怎么白嫖 [音速科技](https://niubi.ilaosiji.xyz/)
 > 首先你得有多个邮箱
